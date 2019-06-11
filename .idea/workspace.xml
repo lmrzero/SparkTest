@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="674c0d9a-6da5-43a0-9a89-babb88601a22" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="148" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SparkTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/classsifiers/NaiveBayesDataProduce.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/cluster/kmeans.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="e#23#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/associationrule/FPGrowthTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="23" column="69" lean-forward="true" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
+              <folding>
+                <element signature="e#31#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/recommend/ALStest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/fpm/FPGrowth.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="207" column="38" lean-forward="true" selection-start-line="207" selection-start-column="38" selection-end-line="207" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/clustering/KMeans.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="104" column="62" selection-start-line="104" selection-start-column="62" selection-end-line="104" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/classsifiers/SVMClassifier.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" column="35" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kaf</find>
+      <find>asList</find>
+      <find>main</find>
+      <find>take</find>
+      <find>internal</find>
+      <find>generatedRDDs</find>
+      <find>get</find>
+      <find>my</find>
+      <find>class</find>
+      <find />
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="lmr" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/actor/test/ActorClient.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/implictTest/MyImpicit.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/implictTest/ScalaFanXing.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/hadoop/GroupTest.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/saclatest/LeftOrRightTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/hive/UDFZodiacSign.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/hive/GenericUDFNvl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/spark/dataskewed/Test6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/spark/partition/MyPartition.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/spark/partitionTest/MyPartition.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/test/HelloActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/spark/SparkOperatorsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/edu360/spark/ScalaWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/edu360/spark/OperatorTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/edu360/spark/RainTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/hadoop/HDFSCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/spark/streaming/SparkStreamingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/kafka_flume_sparkstreaming/wordtest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/edu360/day8/KafkaWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/flume/DataProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/edu360/day8/KafkaDirectWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/edu360/day8/KafkaDirectWordCountV2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/edu360/day8/Study/StatefulKafkaWordCounts.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/spark/streaming/WindowOperations.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/spark/streaming/SockerServer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/lmr/loganalysis/PView.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/lmr/loganalysis/ClickStreamAna.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/lmr/loganalysis/DataProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/lmr/loganalysis/PercentileAna.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/data.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/StaticsOperates.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/MLlibDataFormat.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/MLlibMatrix.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/DistributeMatrix.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/LinearRegression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/LogisticRegression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/Isotonic_Regression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/NaiveBayesDataProduce.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/NaiveBayes.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/SVMClassifier.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/TreeClassifier.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/classsifiers/TreeClassifier.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/regression/LinearRegression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/regression/LogisticRegression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/cluster/kmeans.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/associationrule/FPGrowthTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu360/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/mllib/recommend/ALStest.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\localRepository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.2/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.2\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SparkTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SparkTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SparkTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-120" />
+    <option name="y" value="90" />
+    <option name="width" value="1755" />
+    <option name="height" value="890" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkPlace\SparkTest\src\main\scala\mllib\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu360.Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkPlace\SparkTest\src\main\scala\mllib" />
+      <recent name="E:\IDEAWorkPlace\SparkTest\src\main\scala\implictTest" />
+      <recent name="E:\IDEAWorkPlace\SparkTest\src\main\scala\cn\edu360\day8" />
+      <recent name="E:\IDEAWorkPlace\SparkTest\src\main\java\cn\edu360\kafka" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FPGrowthTest">
+    <configuration name="FPGrowthTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mllib.associationrule.FPGrowthTest" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mllib.associationrule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Naive_Bayes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mllib.Naive_Bayes" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mllib.classsifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SVMClassifier" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mllib.classsifiers.SVMClassifier" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mllib.classsifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeClassifier" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mllib.classsifiers.TreeClassifier" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mllib.classsifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kmeans" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mllib.cluster.kmeans" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mllib.cluster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Naive_Bayes" />
+      <item itemvalue="Application.SVMClassifier" />
+      <item itemvalue="Application.TreeClassifier" />
+      <item itemvalue="Application.kmeans" />
+      <item itemvalue="Application.FPGrowthTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FPGrowthTest" />
+        <item itemvalue="Application.kmeans" />
+        <item itemvalue="Application.TreeClassifier" />
+        <item itemvalue="Application.SVMClassifier" />
+        <item itemvalue="Application.Naive_Bayes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="674c0d9a-6da5-43a0-9a89-babb88601a22" name="Default Changelist" comment="" />
+      <created>1554887959390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554887959390</updated>
+      <workItem from="1554887960850" duration="2544000" />
+      <workItem from="1554892477861" duration="2077000" />
+      <workItem from="1554963473143" duration="5989000" />
+      <workItem from="1555033683926" duration="1945000" />
+      <workItem from="1555290131453" duration="9438000" />
+      <workItem from="1555377878088" duration="1198000" />
+      <workItem from="1555400593314" duration="596000" />
+      <workItem from="1555474703010" duration="527000" />
+      <workItem from="1555488625576" duration="154000" />
+      <workItem from="1555552086842" duration="4445000" />
+      <workItem from="1555649696379" duration="23560000" />
+      <workItem from="1555727150750" duration="8702000" />
+      <workItem from="1555761652786" duration="6261000" />
+      <workItem from="1556195555770" duration="7433000" />
+      <workItem from="1556241902297" duration="2550000" />
+      <workItem from="1556245123255" duration="2132000" />
+      <workItem from="1556254333015" duration="7127000" />
+      <workItem from="1557055124256" duration="866000" />
+      <workItem from="1557495392353" duration="1844000" />
+      <workItem from="1557581760722" duration="341000" />
+      <workItem from="1557647418345" duration="996000" />
+      <workItem from="1557657294305" duration="65000" />
+      <workItem from="1557798376440" duration="1404000" />
+      <workItem from="1557801602394" duration="4813000" />
+      <workItem from="1557812991865" duration="2705000" />
+      <workItem from="1557899381734" duration="3824000" />
+      <workItem from="1557907051137" duration="599000" />
+      <workItem from="1557922783771" duration="194000" />
+      <workItem from="1557978729300" duration="2948000" />
+      <workItem from="1558685574056" duration="5728000" />
+      <workItem from="1558854507541" duration="2457000" />
+      <workItem from="1558882470854" duration="360000" />
+      <workItem from="1558917050616" duration="12384000" />
+      <workItem from="1558967115045" duration="2925000" />
+      <workItem from="1559089755039" duration="600000" />
+      <workItem from="1559180214561" duration="3648000" />
+      <workItem from="1559220849289" duration="633000" />
+      <workItem from="1559281135334" duration="9087000" />
+      <workItem from="1559381806752" duration="600000" />
+      <workItem from="1559387664193" duration="284000" />
+      <workItem from="1559390619287" duration="677000" />
+      <workItem from="1559437071249" duration="9486000" />
+      <workItem from="1559521505111" duration="1482000" />
+      <workItem from="1559550592556" duration="5296000" />
+      <workItem from="1559625143883" duration="771000" />
+      <workItem from="1559629059158" duration="18710000" />
+      <workItem from="1559716894377" duration="2860000" />
+      <workItem from="1559720620843" duration="6190000" />
+      <workItem from="1559781945161" duration="1260000" />
+      <workItem from="1559798449881" duration="23000" />
+      <workItem from="1559823072181" duration="6973000" />
+      <workItem from="1559911149282" duration="1522000" />
+      <workItem from="1560063243137" duration="12385000" />
+      <workItem from="1560126970390" duration="8445000" />
+      <workItem from="1560147211882" duration="10645000" />
+      <workItem from="1560179680481" duration="1109000" />
+      <workItem from="1560213234931" duration="48000" />
+      <workItem from="1560233324475" duration="6994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="240859000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39093485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49865952" weight="0.437058" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.22855228" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.4989154" visible="true" weight="0.16286863" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5010846" side_tool="true" weight="0.23659517" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spark Test&#10;including: SparkMLlib,SparkStreaming,SparkSql and JavaAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spark Test&#10;including: SparkMLlib,SparkStreaming,SparkSql and JavaAPI" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SparkTest$JavaWordCount.ic" NAME="JavaWordCount Coverage Results" MODIFIED="1554892987035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu360.spark.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/StaticsOperates.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <element signature="e#16#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/MLlibDataFormat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-end-line="50" />
+          <folding>
+            <element signature="e#15#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/scalanlp/breeze_2.11/0.13.1/breeze_2.11-0.13.1-sources.jar!/breeze/linalg/functions/accumulate.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/linalg/distributed/IndexedRowMatrix.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/MLlibMatrix.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="e#15#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/DistributeMatrix.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="65" selection-end-line="89" />
+          <folding>
+            <element signature="e#15#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/util/LinearDataGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="172" column="23" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/regression/LinearRegression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="122" column="56" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/sample_isotonic_regression_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/LogisticRegression.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/Isotonic_Regression.scala" />
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0.jar!/org/apache/spark/mllib/regression/IsotonicRegressionModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="166" selection-start-line="2" selection-start-column="166" selection-end-line="2" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/evaluation/MulticlassMetrics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="140" column="24" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/linalg/Matrices.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4826">
+          <caret line="281" column="6" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="177" column="50" selection-start-line="177" selection-start-column="18" selection-end-line="177" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/lmr/loganalysis/ClickStreamAna.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="e#29#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/util/Random.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/sample_binary_classification_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/pic_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/sample_svm_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/sample_isotonic_regression_libsvm_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/util/SVMDataGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="65" column="47" lean-forward="true" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Array.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="261" column="57" lean-forward="true" selection-start-line="261" selection-start-column="57" selection-end-line="261" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/classification/NaiveBayes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="452" column="29" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/NaiveBayesDataProduce.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/LinearRegression.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/SVMClassifier.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/TreeClassifier.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/regression/LogisticRegression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <element signature="e#26#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/regression/LinearRegression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding>
+            <element signature="e#26#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/tree/DecisionTree.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="198" column="71" selection-start-line="198" selection-start-column="64" selection-end-line="198" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/NaiveBayes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/regression/Isotonic_Regression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/classsifiers/TreeClassifier.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/streaming_kmeans_data_test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/sample_kmeans_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/ml/clustering/KMeans.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/kmeans_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/classsifiers/NaiveBayesDataProduce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/classsifiers/SVMClassifier.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="35" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/clustering/KMeans.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="104" column="62" selection-start-line="104" selection-start-column="62" selection-end-line="104" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/data/sample_fpgrowth.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/cluster/kmeans.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="e#23#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0.jar!/org/apache/spark/mllib/fpm/FPGrowth.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="321" column="51" selection-start-line="321" selection-start-column="51" selection-end-line="321" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu360/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/localRepository/org/apache/spark/spark-mllib_2.11/2.2.0/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/fpm/FPGrowth.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="207" column="38" lean-forward="true" selection-start-line="207" selection-start-column="38" selection-end-line="207" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/recommend/ALStest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mllib/associationrule/FPGrowthTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="23" column="69" lean-forward="true" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
+          <folding>
+            <element signature="e#31#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
